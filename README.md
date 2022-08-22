@@ -1,10 +1,2 @@
-- 👋 Hi, I’m @royfp
-- 👀 I’m interested in fishing and shooting sport
-- 🌱 I’m currently learning C,Java,Python,etc.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-t.me/royfp
-<!---
-royfp/royfp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+FREE To copy my project,modify,or put your name on my project.
+Thanks to download my project,hope it's gonna help you.
